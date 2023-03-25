@@ -1,3 +1,4 @@
+![Dash b](https://user-images.githubusercontent.com/122671659/227728500-71d4702d-914e-4bf4-82fa-13d9d0f82ce8.jpg)
 # DTML-Retail-Analysis
 This project was majorly done in Microsoft Excel. New columns were created to calculate for revenue and profit. Pivot table and pivot charts were used to create reports and dashboard.
 [Sales Data.xlsx](https://github.com/OpeyemiJagunmolu/DTML-retail-Analysis/files/10417454/Sales.Data.xlsx)
