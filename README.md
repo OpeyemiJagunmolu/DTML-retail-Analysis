@@ -3,7 +3,11 @@
 ## Analysis for DTML Retail
 
 ## PROBLEM STATEMENT
-* 
+* Revenue Trend
+* Product Analysis
+* Top 10 Sales team
+* Revenue contribution by product categories
+
 
 
 ## DASHBOARD
@@ -19,8 +23,8 @@ This project was done in Microsoft Excel and Power BI just to do a comparison be
 In Excel, New columns were created to calculate for Revenue and Profit. A Pivot table and Pivot charts were used to create reports and dashboard. 
 A textbox was used to show some insights.
 
-In Power Bi, analysis was carried out to gain further insights on the dataset. The dataset which was a spreadsheet file, was imported, cleaned, loaded and transformed.
-DAX function was used to calculate for revenue and also profit.
+In Power Bi, analysis was carried out to gain insights on the dataset. The dataset which was a spreadsheet file, was imported, cleaned, loaded and transformed.
+DAX function was used to calculate for revenue and also profit. 
 
 
 #### Modelling
